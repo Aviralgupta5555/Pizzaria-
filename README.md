@@ -35,7 +35,7 @@ npm install  # or yarn install
 npm start  # or yarn start
 ```
 
-The app will be live at **http://localhost:5173/** (default Vite port).
+
 
 ## 📂 Project Structure
 
